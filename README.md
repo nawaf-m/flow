@@ -9,7 +9,7 @@ On September 2015, more than 2,400 pilgrims died during the Mina stampede traged
 Flow is a solution designed to equip the Ministry of Hajj and official Hajj organizers with the capability of real-time monitoring of pilgrims’ traffic, the ability to predict and prevent dangerous congestions, and seamless Tafweej scheduling (current mechanism for organizing the traffic of pilgrims) updates. 
 
 ## How it works
-![alt system_model](systemModel.png "Flow System Model")
+![alt system_model](https://github.com/nawaf-m/flow/blob/master/img/systemModel.png "Flow System Model")
 
 Flow is composed of three main elements:
 1. FlowDashboard: a centralized intelligence dashboard. It is a web-based dashboard used by the Hajj organizing entities for monitoring and controlling pilgrims’ traffic. 
@@ -21,7 +21,7 @@ Flow is composed of three main elements:
 
 FlowDashboard: The web-based dashboard that provides centralized intelligence to Hajj organizers has been prototyped. The React JS library has been used for developing the user interface. A mock user interface to simulate the usage of the wearable device or smartphone by the pilgrimage guide has been created to be used during the demo.
 
-![alt FlowDashboard](FlowDashboard.png "Flow Dashboard")
+![alt FlowDashboard](https://github.com/nawaf-m/flow/blob/master/img/FlowDashboard.png "Flow Dashboard")
 
 **Technology Required for Remaining Components**
 

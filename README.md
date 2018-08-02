@@ -25,7 +25,7 @@ FlowDashboard: The web-based dashboard that provides centralized intelligence to
 
 **Technology Required for Remaining Components**
 
-FlowNetwork:
+FlowNetwork: Since the pilgrimage rites are date-specific, all pilgrims will have to be in the same location at the same time. Therefore, to avoid relying on a congested service provider public network, for time-sensitive updates, the Flow Solution rides on a private multi-hop Wifi mesh network (reserved frequency) to relay tracked GPS points and campaign leader information to Flow servers. Ruggedized outdoor access points (AP) will be installed from Makkah to Arafat, approx. 1 KM apart, to facilitate this solution. In the four areas (Makkah, Mina, Arafa, Mozdalifah), we double the number of access points to scale. Specific access points at each zone will be chosen strategically as portals to the Internet. In total, that includes 90 APs. Since the transmitted GPS data is minimal (~ 60 mb per FlowPoint during the 5-day Hajj process), and the anticipated number of FlowPoint users is approx. 10,000 users, these APs will be able to support the load. WPA2 encryption will be used to secure the FlowNetwork infrastructure.
 
 FlowPoint: a simple wearable device with GPS tracking and WiFi chips that will be sending its location to the FlowDashboard frequently, and has a small screen for the Hajj guide to receive instructions on how to proceed. _(for the purpose of the demo we will use mobile apps)._
 

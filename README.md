@@ -1,6 +1,6 @@
 # Flow
 
-![alt mina_stampede](minaStampede.jpg "Mina Stampede 2015")
+![alt mina_stampede](https://github.com/nawaf-m/flow/blob/master/img/minaStampede.png "Mina Stampede 2015")
 
 ## Inspiration
 On September 2015, more than 2,400 pilgrims died during the Mina stampede tragedy. The media labeled it as the deadliest Hajj disaster in history. We want to build a solution that prevents such tragedy from happening again. We want to save lives. 

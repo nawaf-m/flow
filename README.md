@@ -3,7 +3,9 @@
 ![alt mina_stampede](https://github.com/nawaf-m/flow/blob/master/img/minaStampede.png "Mina Stampede 2015")
 
 ## Inspiration
-On September 2015, more than 2,400 pilgrims died during the Mina stampede tragedy. The media labeled it as the deadliest Hajj disaster in history. We want to build a solution that prevents such tragedy from happening again. We want to save lives. 
+On September 2015, more than 2,400 pilgrims died during the Mina stampede tragedy. The media labeled it as the deadliest Hajj disaster in history. We want to build a solution that prevents such tragedy from happening again. We want to save lives.
+
+Let the Human River Flow.
 
 ## Solution - what it does
 Flow is a solution designed to equip the Ministry of Hajj and official Hajj organizers with the capability of real-time monitoring of pilgrims’ traffic, the ability to predict and prevent dangerous congestions, and seamless Tafweej scheduling (current mechanism for organizing the traffic of pilgrims) updates. 
